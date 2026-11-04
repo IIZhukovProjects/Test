@@ -1,1 +1,3 @@
-service: [broken
+service:
+  name: api
+  description: Recovered API
