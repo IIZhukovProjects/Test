@@ -1,0 +1,4 @@
+service:
+  name: api
+  description: Initial API
+  grpc: {enabled: true, port: 10021}
