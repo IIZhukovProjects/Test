@@ -1,4 +1,4 @@
 service:
   name: api
-  description: Initial API
+  description: Updated through GitHub polling
   grpc: {enabled: true, port: 10021}

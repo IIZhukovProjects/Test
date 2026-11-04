@@ -1,3 +1,0 @@
-service:
-  name: worker
-  description: Background worker
