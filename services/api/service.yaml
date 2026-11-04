@@ -1,4 +1,1 @@
-service:
-  name: api
-  description: Updated through GitHub polling
-  grpc: {enabled: true, port: 10021}
+service: [broken
